@@ -1,0 +1,4 @@
+zeebe.client.cloud:
+  clusterId: your-cluster-id-here
+  clientId: your-client-id-here
+  clientSecret: your-client-secret-here
